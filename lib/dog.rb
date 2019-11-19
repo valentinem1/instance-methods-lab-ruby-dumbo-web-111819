@@ -1,4 +1,4 @@
-class Dod
+class Dog
   def bark
     puts "Woof!"
   end
